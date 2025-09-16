@@ -1,0 +1,4 @@
+ui/node_modules
+server/tmp
+server/log
+!**/.keep
